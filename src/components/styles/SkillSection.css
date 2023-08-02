@@ -1,0 +1,29 @@
+.container-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container-3 h1 {
+  color: var(--primary-color);
+  font-size: 3rem;
+}
+
+.skill-section-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.skill-icon {
+  width: 100px;
+  height: 100px;
+  background-color: var(--primary-color);
+  font-size: 5rem;
+  text-decoration: none;
+  color: #f2f2f2;
+  padding: 1rem;
+  border-radius: 3px;
+}
