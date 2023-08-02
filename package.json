@@ -12,7 +12,7 @@
     "react-snowfall": "^1.2.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://HadiOryaniPr.github.io/maktabkhooneh-resume",
+  "homepage": "https://hadioryanipr.github.io/maktabkhooneh-resume",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
